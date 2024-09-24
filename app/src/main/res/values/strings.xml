@@ -1,0 +1,49 @@
+<resources>
+    <!-- app -->
+    <string name="app_name">Double Translate</string>
+    <string name="about">"This app displays Double Translate"</string>
+    <string name="blog">Blog</string>
+    <string name="source_code">Source code</string>
+    <string name="play_store">Play Store</string>
+
+    <!-- main -->
+    <string name="txt_enter_text">Enter Text</string>
+    <string name="descr_translate">Description of Translate Button</string>
+    <string name="translate_button_text">Translate Donation</string>
+
+
+    <string name="label_label">Label:</string>
+    <string name="label_content">Content:</string>
+    <string name="label_mimetype">Mimetype:</string>
+    <string name="descr_notify">Set as notification</string>
+    <string name="descr_share">Share</string>
+    <string name="descr_clear">Clear</string>
+    <string name="descr_configure">Settings</string>
+    <string name="descr_info">Info</string>
+    <string name="descr_sync_to">value</string>
+    <string name="descr_sync_from"> data</string>
+    <string name="txt_empty">empty</string>
+    <string name="txt_itemcount">\nItem count = </string>
+    <string name="clip_sent">sent</string>
+
+    <!-- notifications -->
+    <string name="channel_name">Text</string>
+    <string name="channel_description">AAAAAAA text</string>
+
+    <!-- settings -->
+    <string name="conf_keyboard">Show keyboard when app opens</string>
+    <string name="conf_capitalize">Capitalize first letter of input sentences (some keyboards may ignore this)</string>
+    <string name="conf_sync">AAAAA and inputs</string>
+
+    <!-- shortcuts -->
+    <string name="shortcut_clear">Clear </string>
+    <string name="toast_cleared"> cleared</string>
+
+    <!-- process -->
+    <string name="process">Double Translate</string>
+    <string name="clip_selection">selection</string>
+
+  
+
+
+</resources>
